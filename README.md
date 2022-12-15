@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+- [x] Branch Learning 😹
+- [ ] Merge Learning 🥇
