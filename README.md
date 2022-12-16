@@ -1,3 +1,3 @@
 # hello-world
 - [x] Branch Learning 😹
-- [ ] Merge Learning 🥇
+- [x] Merge Learning 🥇
